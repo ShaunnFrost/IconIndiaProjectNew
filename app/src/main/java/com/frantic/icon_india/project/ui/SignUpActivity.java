@@ -110,7 +110,7 @@ public class SignUpActivity extends AppCompatActivity implements AdapterView.OnI
     }
     private void checkdata() {
         if (Validation.isBlankField(first_name, "Name cannot be empty")) {
-            if (Validation.isNameValidation(last_name, "Name length must be greater than 3")) {
+            if (Validation.isNameValidation(last_name, "Name length must be less than 3")) {
                 {
                     if (Validation.isBlankField(email, "Email cannot be empty")) {
                         if (Validation.isPhoneValidation(mobile, "Mobile number length must be <=10")) {
