@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CustomTextView="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#2f333f"
+    tools:context="com.ankur.taskapp.manager.ui.ProfileView">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:background="@color/blueish"
+        android:layout_width="match_parent"
+        android:alpha="0.9"
+        android:layout_height="@dimen/dp_50">
+    </android.support.v7.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_5"
+        android:orientation="vertical">
+        <de.hdodenhof.circleimageview.CircleImageView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/fucking_photo"
+            android:layout_width="@dimen/dp_100"
+            android:layout_height="@dimen/dp_100"
+            android:src="@drawable/paji"
+            android:layout_gravity="center"
+
+            app:civ_border_width="2dp"
+            app:civ_border_color="@color/white"/>
+        <com.ankur.taskapp.manager.utills.CustomTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FIT0001"
+            android:textColor="@color/white"
+            android:id="@+id/fuck_id"
+            CustomTextView:textStyle="8"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/dp_2"/>
+        <com.ankur.taskapp.manager.utills.CustomTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Harpreet Singh"
+            android:textStyle="bold"
+            android:id="@+id/fuck_name"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dp_15"
+          CustomTextView:textStyle="1"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/dp_2"/>
+        <com.ankur.taskapp.manager.utills.CustomTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Android Developer"
+            android:textColor="@color/white"
+            android:id="@+id/fuck_designation"
+            CustomTextView:textStyle="8"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/dp_2"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="@dimen/dp_5"
+        android:orientation="horizontal"
+android:layout_marginRight="@dimen/dp_5"
+        android:layout_marginLeft="@dimen/dp_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:background="@color/orange"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/dp_70">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="150"
+                android:textSize="18sp"
+                android:id="@+id/fuck_totalpro"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Total Projects"
+                android:textSize="@dimen/dp_13"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+        <LinearLayout
+            android:background="@color/green"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/dp_70">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="19"
+                android:id="@+id/fuck_totaltasks"
+                android:textSize="18sp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Total Tasks"
+                android:textSize="@dimen/dp_13"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+        <LinearLayout
+            android:background="@color/logo_blue"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:alpha="0.9"
+            android:layout_height="@dimen/dp_70">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fuck_totalattendance"
+                android:text="0"
+                android:textSize="18sp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Attendance"
+                android:alpha="0.9"
+                android:textSize="@dimen/dp_13"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/dp_15"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/shaded_white"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_marginTop="@dimen/dp_10"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="@dimen/dp_30"
+                android:src="@drawable/id"
+                android:layout_gravity="center"
+                android:layout_height="@dimen/dp_30" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dp_10"
+                android:orientation="vertical">
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_2"
+                    CustomTextView:textStyle="8"
+                    android:id="@+id/fuck_emailid"
+                    android:text="ankurtiwari120196@gmail.com"
+                    android:textSize="@dimen/dp_16"
+/>                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Email Id"
+                    CustomTextView:textStyle="1"
+                    android:layout_marginTop="@dimen/dp_4"
+                    android:textSize="@dimen/dp_15"
+                    android:textColor="@color/cardview_dark_background"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/dp_8"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_marginRight="@dimen/dp_5"
+            android:layout_height="@dimen/dp_1"
+            android:alpha="0.4"
+            android:background="#2f333f"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_5"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="@dimen/dp_30"
+                android:src="@drawable/call_or_feedback"
+                android:layout_gravity="center"
+                android:layout_height="@dimen/dp_30" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dp_10"
+                android:orientation="vertical">
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_2"
+                    CustomTextView:textStyle="8"
+                    android:text="9718542250"
+                    android:textSize="@dimen/dp_16"
+                    android:id="@+id/fuck_number"
+/>
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Phone"
+                    CustomTextView:textStyle="1"
+                    android:layout_marginTop="@dimen/dp_4"
+                    android:textSize="@dimen/dp_15"
+                    android:textColor="@color/cardview_dark_background"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/dp_8"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_marginRight="@dimen/dp_5"
+            android:layout_height="@dimen/dp_1"
+            android:alpha="0.4"
+            android:background="#2f333f"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="@dimen/dp_30"
+                android:src="@drawable/project"
+                android:layout_gravity="center"
+                android:layout_height="@dimen/dp_30" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dp_10"
+                android:orientation="vertical">
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_2"
+                    CustomTextView:textStyle="8"
+                    android:text="Web Development"
+                    android:id="@+id/fuck_department"
+                    android:textSize="@dimen/dp_16"
+/>
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Department"
+                    CustomTextView:textStyle="1"
+                    android:layout_marginTop="@dimen/dp_4"
+                    android:textSize="@dimen/dp_15"
+                    android:textColor="@color/cardview_dark_background"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/dp_4"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_marginRight="@dimen/dp_5"
+            android:layout_height="@dimen/dp_1"
+            android:alpha="0.4"
+            android:background="#2f333f"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="@dimen/dp_30"
+                android:src="@drawable/employee_management"
+                android:layout_gravity="center"
+                android:layout_height="@dimen/dp_30" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dp_10"
+                android:orientation="vertical">
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_2"
+                    CustomTextView:textStyle="8"
+                    android:id="@+id/fucking_skills"
+                    android:text="php,mysql,javascript,css,bootstrap,java,asp.net,c#,c,c++"
+                    android:textSize="@dimen/dp_16"/>
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Skills"
+                    CustomTextView:textStyle="1"
+                    android:layout_marginTop="@dimen/dp_4"
+                    android:textSize="@dimen/dp_15"
+                    android:textColor="@color/cardview_dark_background"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/dp_4"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_marginRight="@dimen/dp_5"
+            android:layout_height="@dimen/dp_1"
+            android:alpha="0.4"
+            android:background="#2f333f"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="@dimen/dp_30"
+                android:src="@drawable/attendance"
+                android:layout_gravity="center"
+                android:layout_height="@dimen/dp_30" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dp_10"
+                android:orientation="vertical">
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_2"
+                    CustomTextView:textStyle="8"
+                    android:id="@+id/fucking_bloodgroup"
+                    android:text="A positive"
+                    android:textSize="@dimen/dp_16"/>
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Bloodgroup"
+                    CustomTextView:textStyle="1"
+                    android:layout_marginTop="@dimen/dp_4"
+                    android:textSize="@dimen/dp_15"
+                    android:textColor="@color/cardview_dark_background"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/dp_4"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_marginRight="@dimen/dp_5"
+            android:layout_height="@dimen/dp_1"
+            android:alpha="0.4"
+            android:background="#2f333f"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="@dimen/dp_30"
+                android:src="@drawable/project"
+                android:layout_gravity="center"
+                android:layout_height="@dimen/dp_30" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dp_10"
+                android:orientation="vertical">
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_2"
+                    CustomTextView:textStyle="8"
+
+                    android:id="@+id/fucking_adress"
+                    android:text="E-398,Delta-1,Greater Noida,201308"
+                    android:textSize="@dimen/dp_16"/>
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Address"
+                    CustomTextView:textStyle="1"
+                    android:layout_marginTop="@dimen/dp_4"
+                    android:textSize="@dimen/dp_15"
+                    android:textColor="@color/cardview_dark_background"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/dp_4"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_marginRight="@dimen/dp_5"
+            android:layout_height="@dimen/dp_1"
+            android:alpha="0.4"
+            android:background="#2f333f"
+            />
+
+</LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

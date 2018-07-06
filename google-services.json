@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "886366202691",
+    "firebase_url": "https://iconindia-7d761.firebaseio.com",
+    "project_id": "iconindia-7d761",
+    "storage_bucket": "iconindia-7d761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886366202691:android:acd86aa31d24592f",
+        "android_client_info": {
+          "package_name": "com.frantic.icon_india.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886366202691-au0ip6u7blu3l912km110kcrdtndgcnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAItP0_v2QVhE2aeXtUcPa75eOJ5rkVCe8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

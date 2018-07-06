@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:CustomTextView="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="8dp"
+    android:layout_marginLeft="8dp"
+    android:layout_marginBottom="10dp"
+    >
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardElevation="@dimen/dp_12"
+        card_view:cardBackgroundColor="@android:color/transparent"
+        android:background="#0187ac"
+        >
+
+        <LinearLayout
+            android:background="#0187ac"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/dp_5"
+            android:paddingRight="@dimen/dp_5"
+            android:paddingTop="@dimen/dp_5">
+            <!--Title !-->
+            <LinearLayout
+                android:layout_marginRight="@dimen/dp_10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dp_5"
+               >
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="7"
+                    android:layout_height="match_parent">
+                    <ImageView
+                        android:id="@+id/iv_title"
+                        android:layout_width="@dimen/dp_50"
+                        android:layout_height="@dimen/dp_50"
+                        android:src="@drawable/title_6"/>
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:paddingTop="@dimen/dp_9"
+                        android:layout_toRightOf="@+id/iv_title"
+                        android:layout_marginTop="@dimen/dp_10"
+                        android:id="@+id/title_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/sp_12"
+                        android:layout_weight="1"
+                        CustomTextView:textStyle="8"
+                        android:textColor="@color/green"
+                        android:text="TITLE" />
+
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:paddingTop="@dimen/dp_15"
+                        android:paddingLeft="@dimen/dp_22"
+                        android:paddingRight="@dimen/dp_22"
+                        android:gravity="left"
+                        android:textSize="@dimen/sp_10"
+                        android:layout_below="@id/title_name"
+                        android:id="@+id/task_adapter_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="@color/white"
+                        android:text="There are Some Problem in issue tracking system" />
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:visibility="gone"
+                    android:id="@+id/layout_download"
+                    android:layout_width="0dp"
+                    android:layout_weight="3"
+                    android:layout_height="match_parent">
+
+                    <View
+                        android:padding="@dimen/dp_2"
+                        android:layout_width="@dimen/dp_1"
+                        android:layout_height="@dimen/dp_30"
+                        android:background="@color/white"/>
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:id="@+id/download"
+                        android:textColor="@color/green"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="@dimen/dp_5"
+                        android:text="DOWNLOAD"
+                        android:paddingLeft="@dimen/dp_5"/>
+                    <ImageView
+                        android:layout_marginLeft="@dimen/dp_5"
+                        android:layout_width="@dimen/dp_20"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dp_5"
+                        android:src="@mipmap/ic_launcher"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <!--Due !-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dp_5"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent">
+                    <ImageView
+                        android:layout_marginTop="@dimen/dp_18"
+                        android:layout_marginLeft="@dimen/dp_13"
+                        android:id="@+id/iv_due_date"
+                        android:layout_width="@dimen/dp_14"
+                        android:layout_height="@dimen/dp_14"
+                        android:src="@drawable/due_date"/>
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:layout_marginLeft="@dimen/dp_16"
+                        android:paddingTop="@dimen/dp_18"
+                        android:paddingRight="@dimen/dp_5"
+                        android:layout_toRightOf="@+id/iv_due_date"
+                        android:id="@+id/due_date_xml"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/sp_12"
+                        android:text="DUE DATE"
+                        CustomTextView:textStyle="8"
+                        android:textColor="@color/green"/>
+
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:textSize="@dimen/sp_10"
+                        android:layout_below="@id/due_date_xml"
+                        android:id="@+id/task_adapter_due_date"
+                        android:paddingTop="@dimen/dp_10"
+                        android:paddingLeft="@dimen/dp_18"
+                        android:paddingRight="@dimen/dp_22"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="08-08-2016"
+                        android:textColor="@color/white"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent">
+                    <ImageView
+                        android:layout_marginTop="@dimen/dp_15"
+                        android:id="@+id/iv_task_types"
+                        android:layout_width="@dimen/dp_30"
+                        android:layout_height="@dimen/dp_30"
+                        android:src="@drawable/task_type"/>
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:paddingTop="@dimen/dp_20"
+                        android:paddingRight="@dimen/dp_5"
+                        CustomTextView:textStyle="8"
+                        android:layout_toRightOf="@+id/iv_task_types"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="TASK TYPE"
+                        android:textSize="@dimen/sp_12"
+                        android:textColor="@color/green"
+                        android:id="@+id/task_type_xml"/>
+
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:textSize="@dimen/sp_10"
+                        android:layout_below="@+id/task_type_xml"
+                        android:id="@+id/task_adapter_task_type"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingTop="@dimen/dp_18"
+                        android:paddingLeft="@dimen/dp_10"
+                        android:paddingRight="@dimen/dp_18"
+                        android:text="Business Review"
+                        android:textColor="@color/white"/>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent">
+                    <ImageView
+                        android:layout_marginTop="@dimen/dp_5"
+                        android:id="@+id/iv_assign"
+                        android:layout_width="@dimen/dp_50"
+                        android:layout_height="@dimen/dp_50"
+                        android:src="@drawable/assignee_8"/>
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:textSize="@dimen/sp_12"
+                        android:paddingTop="@dimen/dp_20"
+                        android:paddingRight="@dimen/dp_5"
+                        android:layout_toRightOf="@+id/iv_assign"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="ASSIGN BY"
+                        CustomTextView:textStyle="8"
+                        android:textColor="@color/green"
+                        android:id="@+id/assign_to_xml"/>
+
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:textSize="@dimen/sp_10"
+                        android:paddingTop="@dimen/dp_6"
+                        android:paddingLeft="@dimen/dp_22"
+                        android:paddingRight="@dimen/dp_22"
+                        android:layout_below="@+id/assign_to_xml"
+                        android:id="@+id/task_adapter_assign_to"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Ankit Mishra"
+                        android:textColor="@color/white"/>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+            <!--Priority !-->
+            <LinearLayout
+                android:id="@+id/layout_taskId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dp_5"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent">
+                    <ImageView
+                        android:layout_marginLeft="@dimen/dp_10"
+                        android:layout_marginTop="@dimen/dp_15"
+                        android:id="@+id/iv_taskId"
+                        android:layout_width="@dimen/dp_20"
+                        android:layout_height="@dimen/dp_20"
+                        android:src="@drawable/task_id"/>
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:textSize="@dimen/sp_12"
+                        android:layout_toRightOf="@+id/iv_taskId"
+                        android:layout_marginTop="@dimen/dp_18"
+                        android:layout_marginLeft="@dimen/dp_10"
+                        android:id="@+id/task_Id_xml"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="TASK ID"
+                        CustomTextView:textStyle="8"
+                        android:textColor="@color/green"/>
+
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:textSize="@dimen/sp_10"
+                        android:paddingLeft="@dimen/dp_15"
+                        android:layout_marginTop="@dimen/dp_22"
+                        android:layout_below="@id/task_Id_xml"
+                        android:id="@+id/task_adapter_task_Id"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="00001"
+                        android:textColor="@color/white"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent">
+                    <ImageView
+                        android:layout_marginLeft="@dimen/dp_20"
+                        android:layout_marginTop="@dimen/dp_15"
+                        android:id="@+id/iv_priority"
+                        android:layout_width="@dimen/dp_20"
+                        android:layout_height="@dimen/dp_20"
+                        android:src="@drawable/priority"/>
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:textSize="@dimen/sp_12"
+                        android:layout_toRightOf="@+id/iv_priority"
+                        android:layout_marginLeft="@dimen/dp_6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dp_15"
+                        android:layout_weight="1"
+                        android:text="PRIORITY"
+                        CustomTextView:textStyle="8"
+                        android:textColor="@color/green"
+                        android:id="@+id/priority_type_xml"/>
+
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:textSize="@dimen/sp_10"
+                        android:layout_marginLeft="@dimen/dp_20"
+                        android:layout_marginTop="@dimen/dp_18"
+                        android:layout_below="@+id/priority_type_xml"
+                        android:id="@+id/task_adapter_priority"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="High"
+                        android:textColor="@color/white"/>
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent">
+                    <ImageView
+                        android:foregroundGravity="top"
+                        android:id="@+id/iv_status"
+                        android:layout_width="@dimen/dp_50"
+                        android:layout_height="@dimen/dp_50"
+                        android:src="@drawable/pen"/>
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:textSize="@dimen/sp_12"
+                        android:layout_toRightOf="@+id/iv_status"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dp_18"
+                        android:layout_weight="1"
+                        android:text="STATUS"
+                        CustomTextView:textStyle="8"
+                        android:textColor="@color/green"
+                        android:id="@+id/priority_type_xml1"/>
+
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:paddingLeft="@dimen/dp_16"
+                        android:textSize="@dimen/sp_10"
+                        android:layout_below="@+id/priority_type_xml1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dp_22"
+                        android:text="pending"
+                        android:textColor="@color/white"/>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+            <!--Description !-->
+            <LinearLayout
+                android:visibility="gone"
+                android:id="@+id/layout_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dp_5">
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="7"
+                    android:layout_height="match_parent">
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:layout_marginTop="@dimen/dp_10"
+                        android:id="@+id/description"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textSize="@dimen/sp_12"
+                        CustomTextView:textStyle="8"
+                        android:textColor="@color/green"
+                        android:text="DESCRIPTION" />
+
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:layout_below="@id/description"
+                        android:id="@+id/description_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textSize="@dimen/sp_10"
+                        android:textColor="@color/white"
+                        android:text="On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy."/>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+            <!--Description !-->
+            <LinearLayout
+                android:visibility="visible"
+                android:id="@+id/layout_description_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dp_5">
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="7"
+                    android:layout_height="match_parent">
+                    <ImageView
+                        android:id="@+id/iv_description"
+                        android:layout_width="@dimen/dp_50"
+                        android:layout_height="@dimen/dp_50"
+                        android:src="@drawable/pen"/>
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:layout_toRightOf="@id/iv_description"
+                        android:layout_marginTop="@dimen/dp_18"
+                        android:id="@+id/tv_description_heading"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textSize="@dimen/sp_12"
+                        CustomTextView:textStyle="8"
+                        android:textColor="@color/green"
+                        android:text="DESCRIPTION" />
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:layout_toRightOf="@+id/tv_description_heading"
+                        android:layout_marginLeft="@dimen/dp_30"
+                        android:layout_marginTop="@dimen/dp_18"
+                        android:id="@+id/tv_attachment"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textSize="@dimen/sp_12"
+                        CustomTextView:textStyle="8"
+                        android:textColor="@color/green"
+                        android:text="ATTACHMENT" />
+                    <ImageView
+                        android:paddingLeft="@dimen/dp_10"
+                        android:layout_marginTop="@dimen/dp_9"
+                        android:layout_toRightOf="@+id/tv_attachment"
+                        android:id="@+id/iv_attachment_img"
+                        android:layout_width="@dimen/dp_30"
+                        android:layout_height="@dimen/dp_30"
+                        android:src="@drawable/download"/>
+
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:layout_marginTop="@dimen/dp_22"
+                        android:layout_below="@id/tv_description_heading"
+                        android:id="@+id/tv_description"
+                        android:paddingLeft="@dimen/dp_15"
+                        android:paddingRight="@dimen/dp_22"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textSize="@dimen/sp_10"
+                        android:textColor="@color/white"
+                        android:text="On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy."/>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+            <!--Status !-->
+            <LinearLayout
+                android:visibility="gone"
+                android:id="@+id/layout_status_names"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dp_5">
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="7"
+                    android:layout_height="match_parent">
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:layout_marginTop="@dimen/dp_10"
+                        android:id="@+id/status_text1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textSize="@dimen/sp_12"
+                        android:textColor="@color/green"
+                        android:text="STATUS" />
+
+                    <com.ankur.taskapp.manager.utills.CustomTextView
+                        android:layout_below="@id/status_text1"
+                        android:id="@+id/tv_status_success"
+                        android:textSize="@dimen/sp_10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="@color/white"
+                        android:text="On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy."/>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+            <!--Approve !-->
+            <LinearLayout
+                android:visibility="visible"
+                android:id="@+id/layout_complete"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dp_5">
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="7"
+                    android:layout_height="match_parent">
+                    <com.ankur.taskapp.manager.utills.CustomButton
+                        android:layout_marginLeft="@dimen/dp_12"
+                        android:id="@+id/btn_complete"
+                        android:layout_width="@dimen/dp_80"
+                        android:layout_height="@dimen/dp_20"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="@dimen/dp_10"
+                        android:layout_marginTop="@dimen/dp_10"
+                        android:background="@drawable/round_corner_green_button"
+                        android:text=" COMPLETE "
+                        android:textColor="@color/white" />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+            <!--Caret sign !-->
+            <com.ankur.taskapp.manager.utills.CustomTextView
+                android:id="@+id/expand_status"
+                android:layout_width="80dp"
+                android:layout_height="30dp"
+                android:text="˅"
+                android:layout_gravity="right"
+                android:gravity="right"
+                android:paddingRight="25dp"
+                android:textColor="@color/white"
+                android:layout_marginRight="@dimen/dp_30"
+                android:layout_marginBottom="@dimen/dp_5"/>
+
+            <!--visibility gone !-->
+            <LinearLayout
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <EditText
+                    android:textSize="@dimen/sp_11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Status"
+                    android:enabled="false"
+                    android:textColor="@color/green"
+                    android:background="@null"
+                    android:layout_marginBottom="@dimen/dp_5"
+                    />
+
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:text="On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy.On the way buddy."
+                    android:layout_marginBottom="@dimen/dp_5"/>
+
+                <com.ankur.taskapp.manager.utills.CustomTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="^"
+                    android:gravity="right"
+                    android:textColor="@color/white"
+                    android:layout_marginBottom="@dimen/dp_5"
+                    android:layout_marginRight="@dimen/dp_30"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

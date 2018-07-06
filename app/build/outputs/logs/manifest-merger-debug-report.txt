@@ -1,0 +1,450 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ce9de97a342dc009d21366ef8eddf7ad\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\165838c06e3071dc4987941a66e57ed3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7cc9f1ef02f9ed1bb58bff4be2d442f9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\90730888b9e6aef36436457aba007cb8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.d-max:spots-dialog:0.4] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\spots-dialog-0.4.aar\0382eec9ac2d39e9c9e9ad3061c50a65\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.CardinalNow:Android-CircleProgressIndicator:v0.2] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\Android-CircleProgressIndicator-v0.2.aar\f37d8c9a4353dedef05c381fb211ec71\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\33834ccec71325b8efb741a57d76d9c1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.sothree.slidinguppanel:library:3.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\library-3.3.1.aar\01783f5d90846837c5f702bc0f530a1a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\2becf080dba2eb97ec51f94fce94d550\AndroidManifest.xml:17:1-26:12
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\4800f85a62b6ca797185e809359c21bd\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\15fac98af7ae933df2cef5f3a41cb0c7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\c1bf16f074d3186ab242221e69adc343\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-core-9.6.1.aar\d460dbca257e4cbed3a18983ee35f99d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\32cc2c205496ec4aae8592ccecbf393c\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.6.1.aar\5b9c7f056215823777f29ef859b19bfa\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\60d515e8e9ad1379ae11bedd642746c0\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8150f9b1eb85b3a51b9dde0ac5e2fd18\AndroidManifest.xml:17:1-31:12
+MERGED from [com.mani:ThinDownloadManager:1.3.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\ThinDownloadManager-1.3.0.aar\97fb7748e84a601109345a8d69cf9a3e\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\08463beb2e131e92bb72cbd19cc5273c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\93dc5a85b11fde6846900f8b61f1de30\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f3fc346f95b26bdd82207f66e429563f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\37607ba5ea08b8cf7140afc04d5a813b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fabd528ca7b97d5a3ef912a68cb4787b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4df8b47faeb7ab02aca17bf9a73605d9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4e45e2c5b71cfbd4d9f0bacdcf7b22d9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\39067b24da5f5c42d732ef610e5cfc8d\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:12:5-47:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ce9de97a342dc009d21366ef8eddf7ad\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ce9de97a342dc009d21366ef8eddf7ad\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\165838c06e3071dc4987941a66e57ed3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\165838c06e3071dc4987941a66e57ed3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7cc9f1ef02f9ed1bb58bff4be2d442f9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7cc9f1ef02f9ed1bb58bff4be2d442f9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\90730888b9e6aef36436457aba007cb8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\90730888b9e6aef36436457aba007cb8\AndroidManifest.xml:9:5-20
+MERGED from [com.github.d-max:spots-dialog:0.4] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\spots-dialog-0.4.aar\0382eec9ac2d39e9c9e9ad3061c50a65\AndroidManifest.xml:12:5-20
+MERGED from [com.github.d-max:spots-dialog:0.4] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\spots-dialog-0.4.aar\0382eec9ac2d39e9c9e9ad3061c50a65\AndroidManifest.xml:12:5-20
+MERGED from [com.github.CardinalNow:Android-CircleProgressIndicator:v0.2] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\Android-CircleProgressIndicator-v0.2.aar\f37d8c9a4353dedef05c381fb211ec71\AndroidManifest.xml:11:5-20
+MERGED from [com.github.CardinalNow:Android-CircleProgressIndicator:v0.2] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\Android-CircleProgressIndicator-v0.2.aar\f37d8c9a4353dedef05c381fb211ec71\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\33834ccec71325b8efb741a57d76d9c1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\33834ccec71325b8efb741a57d76d9c1\AndroidManifest.xml:26:5-20
+MERGED from [com.sothree.slidinguppanel:library:3.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\library-3.3.1.aar\01783f5d90846837c5f702bc0f530a1a\AndroidManifest.xml:9:5-20
+MERGED from [com.sothree.slidinguppanel:library:3.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\library-3.3.1.aar\01783f5d90846837c5f702bc0f530a1a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\15fac98af7ae933df2cef5f3a41cb0c7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\15fac98af7ae933df2cef5f3a41cb0c7\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\c1bf16f074d3186ab242221e69adc343\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\c1bf16f074d3186ab242221e69adc343\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-core-9.6.1.aar\d460dbca257e4cbed3a18983ee35f99d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-core-9.6.1.aar\d460dbca257e4cbed3a18983ee35f99d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\32cc2c205496ec4aae8592ccecbf393c\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\32cc2c205496ec4aae8592ccecbf393c\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.6.1.aar\5b9c7f056215823777f29ef859b19bfa\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.6.1.aar\5b9c7f056215823777f29ef859b19bfa\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\60d515e8e9ad1379ae11bedd642746c0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\60d515e8e9ad1379ae11bedd642746c0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8150f9b1eb85b3a51b9dde0ac5e2fd18\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8150f9b1eb85b3a51b9dde0ac5e2fd18\AndroidManifest.xml:29:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\08463beb2e131e92bb72cbd19cc5273c\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\08463beb2e131e92bb72cbd19cc5273c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\93dc5a85b11fde6846900f8b61f1de30\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\93dc5a85b11fde6846900f8b61f1de30\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f3fc346f95b26bdd82207f66e429563f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f3fc346f95b26bdd82207f66e429563f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\37607ba5ea08b8cf7140afc04d5a813b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\37607ba5ea08b8cf7140afc04d5a813b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fabd528ca7b97d5a3ef912a68cb4787b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fabd528ca7b97d5a3ef912a68cb4787b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4df8b47faeb7ab02aca17bf9a73605d9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4df8b47faeb7ab02aca17bf9a73605d9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4e45e2c5b71cfbd4d9f0bacdcf7b22d9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4e45e2c5b71cfbd4d9f0bacdcf7b22d9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\39067b24da5f5c42d732ef610e5cfc8d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\39067b24da5f5c42d732ef610e5cfc8d\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:16:9-39
+	android:roundIcon
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:17:9-50
+	android:icon
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:13:9-54
+service#com.frantic.icon_india.project.Services.MyFirebaseInstanceIDService
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:20:9-24:19
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:20:18-70
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:21:13-23:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:22:17-80
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:22:25-77
+service#com.frantic.icon_india.project.Services.MyFirebaseMessagingService
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:25:9-32:19
+	android:enabled
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:27:13-35
+	android:exported
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:26:13-64
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:29:13-31:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:30:17-78
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:30:25-75
+activity#com.frantic.icon_india.project.ui.SplashActivity
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:34:9-40:20
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:34:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.frantic.icon_india.project.ui.MainActivity
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:41:9-53
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:41:19-50
+activity#com.frantic.icon_india.project.ui.WelcomeActivity
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:42:9-56
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:42:19-53
+activity#com.frantic.icon_india.project.ui.ForgotPasswordActivity
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:43:9-63
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:43:19-60
+activity#com.frantic.icon_india.project.ui.PasswordResetConrfm
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:44:9-60
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:44:19-57
+activity#com.frantic.icon_india.project.ui.SignUpActivity
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:45:9-54
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:45:19-52
+activity#com.frantic.icon_india.project.ui.LoginActivity
+ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:46:9-53
+	android:name
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml:46:19-51
+uses-sdk
+INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ce9de97a342dc009d21366ef8eddf7ad\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ce9de97a342dc009d21366ef8eddf7ad\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\165838c06e3071dc4987941a66e57ed3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\165838c06e3071dc4987941a66e57ed3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7cc9f1ef02f9ed1bb58bff4be2d442f9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7cc9f1ef02f9ed1bb58bff4be2d442f9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\90730888b9e6aef36436457aba007cb8\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\90730888b9e6aef36436457aba007cb8\AndroidManifest.xml:7:5-43
+MERGED from [com.github.d-max:spots-dialog:0.4] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\spots-dialog-0.4.aar\0382eec9ac2d39e9c9e9ad3061c50a65\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.d-max:spots-dialog:0.4] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\spots-dialog-0.4.aar\0382eec9ac2d39e9c9e9ad3061c50a65\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.CardinalNow:Android-CircleProgressIndicator:v0.2] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\Android-CircleProgressIndicator-v0.2.aar\f37d8c9a4353dedef05c381fb211ec71\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CardinalNow:Android-CircleProgressIndicator:v0.2] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\Android-CircleProgressIndicator-v0.2.aar\f37d8c9a4353dedef05c381fb211ec71\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\33834ccec71325b8efb741a57d76d9c1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\33834ccec71325b8efb741a57d76d9c1\AndroidManifest.xml:20:5-43
+MERGED from [com.sothree.slidinguppanel:library:3.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\library-3.3.1.aar\01783f5d90846837c5f702bc0f530a1a\AndroidManifest.xml:7:5-43
+MERGED from [com.sothree.slidinguppanel:library:3.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\library-3.3.1.aar\01783f5d90846837c5f702bc0f530a1a\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\2becf080dba2eb97ec51f94fce94d550\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\2becf080dba2eb97ec51f94fce94d550\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\4800f85a62b6ca797185e809359c21bd\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\4800f85a62b6ca797185e809359c21bd\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\15fac98af7ae933df2cef5f3a41cb0c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\15fac98af7ae933df2cef5f3a41cb0c7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\c1bf16f074d3186ab242221e69adc343\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\c1bf16f074d3186ab242221e69adc343\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-core-9.6.1.aar\d460dbca257e4cbed3a18983ee35f99d\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-core-9.6.1.aar\d460dbca257e4cbed3a18983ee35f99d\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\32cc2c205496ec4aae8592ccecbf393c\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\32cc2c205496ec4aae8592ccecbf393c\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.6.1.aar\5b9c7f056215823777f29ef859b19bfa\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.6.1.aar\5b9c7f056215823777f29ef859b19bfa\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\60d515e8e9ad1379ae11bedd642746c0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\60d515e8e9ad1379ae11bedd642746c0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8150f9b1eb85b3a51b9dde0ac5e2fd18\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8150f9b1eb85b3a51b9dde0ac5e2fd18\AndroidManifest.xml:21:5-23:54
+MERGED from [com.mani:ThinDownloadManager:1.3.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\ThinDownloadManager-1.3.0.aar\97fb7748e84a601109345a8d69cf9a3e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mani:ThinDownloadManager:1.3.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\ThinDownloadManager-1.3.0.aar\97fb7748e84a601109345a8d69cf9a3e\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\08463beb2e131e92bb72cbd19cc5273c\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\08463beb2e131e92bb72cbd19cc5273c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\93dc5a85b11fde6846900f8b61f1de30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\93dc5a85b11fde6846900f8b61f1de30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f3fc346f95b26bdd82207f66e429563f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f3fc346f95b26bdd82207f66e429563f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\37607ba5ea08b8cf7140afc04d5a813b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\37607ba5ea08b8cf7140afc04d5a813b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fabd528ca7b97d5a3ef912a68cb4787b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fabd528ca7b97d5a3ef912a68cb4787b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4df8b47faeb7ab02aca17bf9a73605d9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4df8b47faeb7ab02aca17bf9a73605d9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4e45e2c5b71cfbd4d9f0bacdcf7b22d9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4e45e2c5b71cfbd4d9f0bacdcf7b22d9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\39067b24da5f5c42d732ef610e5cfc8d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\39067b24da5f5c42d732ef610e5cfc8d\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ce9de97a342dc009d21366ef8eddf7ad\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shaun_Frost\Desktop\iconIndia\IconIndiaProjectNew\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ce9de97a342dc009d21366ef8eddf7ad\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\165838c06e3071dc4987941a66e57ed3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\165838c06e3071dc4987941a66e57ed3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\33834ccec71325b8efb741a57d76d9c1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\33834ccec71325b8efb741a57d76d9c1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\2becf080dba2eb97ec51f94fce94d550\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\2becf080dba2eb97ec51f94fce94d550\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\15fac98af7ae933df2cef5f3a41cb0c7\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\15fac98af7ae933df2cef5f3a41cb0c7\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8150f9b1eb85b3a51b9dde0ac5e2fd18\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8150f9b1eb85b3a51b9dde0ac5e2fd18\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\93dc5a85b11fde6846900f8b61f1de30\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\93dc5a85b11fde6846900f8b61f1de30\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f3fc346f95b26bdd82207f66e429563f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f3fc346f95b26bdd82207f66e429563f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\37607ba5ea08b8cf7140afc04d5a813b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\37607ba5ea08b8cf7140afc04d5a813b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fabd528ca7b97d5a3ef912a68cb4787b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fabd528ca7b97d5a3ef912a68cb4787b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4df8b47faeb7ab02aca17bf9a73605d9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4df8b47faeb7ab02aca17bf9a73605d9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4e45e2c5b71cfbd4d9f0bacdcf7b22d9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4e45e2c5b71cfbd4d9f0bacdcf7b22d9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\39067b24da5f5c42d732ef610e5cfc8d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\39067b24da5f5c42d732ef610e5cfc8d\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ce9de97a342dc009d21366ef8eddf7ad\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ce9de97a342dc009d21366ef8eddf7ad\AndroidManifest.xml:26:9-47
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\c1bf16f074d3186ab242221e69adc343\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\c1bf16f074d3186ab242221e69adc343\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\c1bf16f074d3186ab242221e69adc343\AndroidManifest.xml:23:18-87
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\013bff977ed268ad6dead064695aab9b\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\0bd74e354999cfe1935074c9634f77f3\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:24:17-71
+permission#com.frantic.icon_india.project.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:26:22-76
+uses-permission#com.frantic.icon_india.project.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:31:13-35:29
+intent-filter#com.frantic.icon_india.project+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:34:27-58
+category#com.frantic.icon_india.project
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\72c05a0af6b9bccb9f87a7ada8bdbcdb\AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\32cc2c205496ec4aae8592ccecbf393c\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\32cc2c205496ec4aae8592ccecbf393c\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\32cc2c205496ec4aae8592ccecbf393c\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\32cc2c205496ec4aae8592ccecbf393c\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\32cc2c205496ec4aae8592ccecbf393c\AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\60d515e8e9ad1379ae11bedd642746c0\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\60d515e8e9ad1379ae11bedd642746c0\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Shaun_Frost\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\60d515e8e9ad1379ae11bedd642746c0\AndroidManifest.xml:20:20-65

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\NavigationBottomBar\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Ankur_\\.android\\build-cache\\7392a4be1fffb0e445a5b8d1c078942cd9ff3307\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\NavigationBottomBar\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Ankur_\\.android\\build-cache\\7392a4be1fffb0e445a5b8d1c078942cd9ff3307\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\NavigationBottomBar\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Ankur_\\.android\\build-cache\\7392a4be1fffb0e445a5b8d1c078942cd9ff3307\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\NavigationBottomBar\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\bb_bottom_bar_item_container.xml",
+        "source": "E:\\NavigationBottomBar\\bottom-bar\\build\\intermediates\\bundles\\debug\\res\\layout-v21\\bb_bottom_bar_item_container.xml"
+    },
+    {
+        "merged": "E:\\NavigationBottomBar\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Ankur_\\.android\\build-cache\\7392a4be1fffb0e445a5b8d1c078942cd9ff3307\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-az\\values-az.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.6.1.aar\\bac8a6f63dd9ca64bf554fbb059f1ecb\\res\\values-az\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "343",
+                        "endColumns": "254",
+                        "endOffsets": "593"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "254",
+                        "endOffsets": "355"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-az\\values-az.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.6.1.aar\\60d515e8e9ad1379ae11bedd642746c0\\res\\values-az\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "343",
+                        "endColumns": "254",
+                        "endOffsets": "593"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "254",
+                        "endOffsets": "355"
+                    }
+                }
+            ]
+        }
+    ]
+}

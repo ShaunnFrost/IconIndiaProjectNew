@@ -1,0 +1,153 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/blueish</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TRANSPARENT" parent="AppTheme">
+
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="AppThemeForLogin" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@color/logo_blue</item>
+        <item name="tabIndicatorHeight">2dp</item>
+        <item name="tabPaddingStart">1dp</item>
+        <item name="tabPaddingEnd">1dp</item>
+        <item name="tabBackground">@color/white</item>
+        <item name="tabTextAppearance">@style/MyCustomTabTextAppearance</item>
+        <item name="tabSelectedTextColor">@color/logo_blue</item>
+    </style>
+
+    <style name="MyCustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">@dimen/sp_9</item>
+        <item name="android:textColor">@color/txt_color</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="spinner_style" >
+        <item name="android:background">@drawable/spinner_bg</item>
+        <item name="android:textColor">@color/orange</item>
+
+    </style>
+    <style name="CustomTitleTextAppearance">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ProgressBar" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:background">@drawable/bg_loader</item>
+        <item name="android:padding">@dimen/progress_bar_padding</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:indeterminateOnly">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="Label">
+        <item name="android:textSize">@dimen/font_size_12</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ButtonClear" parent="@style/Button">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:background">@drawable/btn_clear_selector</item>
+    </style>
+
+    <style name="ButtonSkip" parent="@style/SkipButton">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:background">@drawable/btn_clear_selector</item>
+    </style>
+
+    <style name="ButtonFbLogin" parent="@style/Button">
+        <item name="android:background">@drawable/fbyash</item>
+        <item name="android:paddingLeft">15.0dip</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:textSize">@dimen/font_size_16</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingBottom">@dimen/btn_padding_bottom</item>
+        <item name="android:layout_width">@dimen/btn_width</item>
+        <item name="android:layout_height">@dimen/btn_height</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="SkipButton">
+        <item name="android:textSize">@dimen/font_size_16</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingBottom">@dimen/btn_padding_bottom</item>
+        <item name="android:layout_width">@dimen/btn_width</item>
+        <item name="android:layout_height">@dimen/btn_height</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+    <style name="Input">
+        <item name="android:textSize">@dimen/font_size_14</item>
+        <item name="android:background">@drawable/edit_text_holo_light</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Title" parent="@style/Label">
+        <item name="android:textSize">@dimen/font_size_18</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+    <style name="Link" parent="@style/Label">
+        <item name="android:textColor">@color/regatta</item>
+        <item name="android:paddingBottom">0.0dip</item>
+    </style>
+
+    <style name="ButtonLight" parent="@style/Button">
+        <item name="android:background">@drawable/btn_light_selector</item>
+    </style>
+    <style name="LargeTitleLabelAlt">
+        <item name="android:textSize">@dimen/font_size_38</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+
+    <style name="LargeTitleAlt">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/large_title_alt_height</item>
+    </style>
+
+    <style name="InputDropdown">
+        <item name="android:textSize">@dimen/font_size_14</item>
+        <item name="android:background">@drawable/spinner_holo_light</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

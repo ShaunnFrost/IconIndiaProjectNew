@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#fff"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_margin="3dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <Spinner
+            android:paddingBottom="@dimen/sp_2"
+            android:paddingTop="@dimen/sp_2"
+            android:id="@+id/filter1"
+            style="@style/spinner_style"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/dp_25"
+            android:layout_weight="6"
+            android:padding="@dimen/dp_5"
+            android:textSize="@dimen/sp_8" />
+    </LinearLayout>
+    <LinearLayout
+        android:visibility="gone"
+        android:layout_margin="3dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <Spinner
+            android:id="@+id/filter2"
+            style="@style/spinner_style"
+            android:layout_width="0dp"
+            android:layout_height="28sp"
+            android:layout_weight="6"
+            android:entries="@array/array_name"
+            android:padding="@dimen/dp_5"
+            android:textSize="@dimen/sp_8" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:visibility="visible"
+        android:layout_margin="3dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <AutoCompleteTextView
+            android:paddingBottom="@dimen/sp_2"
+            android:paddingTop="@dimen/sp_2"
+            android:hint=" Search "
+            android:id="@+id/tv_filter"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/dp_25"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_weight="6"
+            android:background="@drawable/edit_text_style"
+            android:padding="@dimen/dp_4"
+            android:textSize="@dimen/sp_8" />
+    </LinearLayout>
+</LinearLayout>
+
+
+
+
