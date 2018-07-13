@@ -52,12 +52,12 @@
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_project_nav.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xhdpi\\project_nav.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ce9de97a342dc009d21366ef8eddf7ad\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_project_nav.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xhdpi\\project_nav.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
@@ -76,28 +76,28 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\attendance.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_eye_open.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\eye_open.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_eye_open.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\eye_open.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_square.xml.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\square.xml"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_square.xml.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\square.xml"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
@@ -176,32 +176,32 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\bg_receipt_ph.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_cardinal_bird.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\Android-CircleProgressIndicator-v0.2.aar\\58a0d738f908f50550053cf7fa926538\\res\\drawable-mdpi-v4\\cardinal_bird.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\add.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_task_nav.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xhdpi\\task_nav.png"
-    },
-    {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nodata.PNG.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\nodata.PNG"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_cardinal_bird.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\Android-CircleProgressIndicator-v0.2.aar\\58a0d738f908f50550053cf7fa926538\\res\\drawable-mdpi-v4\\cardinal_bird.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\edit.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nodata.PNG.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\nodata.PNG"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_task_nav.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xhdpi\\task_nav.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_attendance.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\attendance.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -212,12 +212,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\upcoming_assignment.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_yellow.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\add_yellow.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_yellow.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\add_yellow.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_nearby.png.flat",
@@ -228,12 +228,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\ic_restaurants.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person_red.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\person_red.png"
-    },
-    {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_share.png.flat",
         "source": "E:\\office\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person_red.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\person_red.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bell_icon.png.flat",
@@ -256,12 +256,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\nodata.PNG"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash_frantic.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\splash_frantic.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash_frantic.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\splash_frantic.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_camera.png.flat",
@@ -332,12 +332,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\upcommingcount.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_light.xml.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\btn_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_light.xml.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\btn_light.xml"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
@@ -352,24 +352,24 @@
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\overdue_assignment.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_send.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_project.png.flat",
@@ -400,20 +400,20 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\timer.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notification.png.flat",
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xhdpi\\notification.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fg.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\fg.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
@@ -488,24 +488,24 @@
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_offer.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\offer.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_employee_nav.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\employee_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_offer.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\offer.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_top.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\layout\\spinner_top.xml"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\xml_bottombar_tabs_five.xml.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\xml\\bottombar_tabs_five.xml"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_overdue.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\overdue.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\xml_bottombar_tabs_five.xml.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\xml\\bottombar_tabs_five.xml"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_in.xml.flat",
@@ -516,12 +516,12 @@
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\btn_dark_disabled.xml"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_my_task.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\my_task.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_noti_icon.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-hdpi\\noti_icon.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_my_task.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\my_task.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_layout_white.xml.flat",
@@ -536,20 +536,20 @@
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-hdpi\\ic_friends.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dp.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\dp.xml"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -576,24 +576,24 @@
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xxhdpi\\overdue.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_user.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\img_user.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hiw_info_graphic_2.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\hiw_info_graphic_2.png"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_user.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\img_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reports.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\reports.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reports.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\reports.png"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hiw_info_graphic_2.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\hiw_info_graphic_2.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_id.png.flat",
@@ -620,12 +620,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_gallery.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_green_button.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\round_corner_green_button.xml"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_show_password.xml.flat",
@@ -700,20 +700,20 @@
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\821807d130922400269fd46c033f2216\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_settinicon.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-hdpi\\settinicon.png"
-    },
-    {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_settinicon.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-hdpi\\settinicon.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_a.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\bg_a.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_friends.png.flat",
@@ -740,12 +740,12 @@
         "source": "E:\\office\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_task_homescreen.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\task_homescreen.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_task_homescreen.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\task_homescreen.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
@@ -760,12 +760,12 @@
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_leave_approve.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\leave_approve.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_leave_approve.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\leave_approve.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
@@ -808,24 +808,24 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_camera.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_statusdescriotion.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\statusdescriotion.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_fab_out.xml.flat",
@@ -896,12 +896,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_share.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spot.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\spots-dialog-0.4.aar\\0382eec9ac2d39e9c9e9ad3061c50a65\\res\\drawable\\spot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_clear_pressed.xml.flat",
@@ -996,12 +996,12 @@
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_create_task.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\create_task.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_create_task.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\create_task.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account.png.flat",
@@ -1016,12 +1016,12 @@
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\bell_icon.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_manage.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_manage.png"
-    },
-    {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_id.png.flat",
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\id.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_manage.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_manage.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_frantic_assignedby.png.flat",
@@ -1036,12 +1036,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_eye_open.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\eye_open.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1080,12 +1080,12 @@
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xhdpi\\project.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_share.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_share.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_share.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_share.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -1104,16 +1104,16 @@
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorites.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favorites.png"
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorites.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favorites.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_task_nav.png.flat",
@@ -1124,24 +1124,24 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\pen.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_alt_left_r.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\btn_alt_left_r.png"
-    },
-    {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancel_btn.png.flat",
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\cancel_btn.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_alt_left_r.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\btn_alt_left_r.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_task_id.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-hdpi\\task_id.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leave_approve.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\leave_approve.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leave_approve.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\leave_approve.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_transactions_layout.xml.flat",
@@ -1160,16 +1160,16 @@
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\start_milk_collection.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\menu\\navigation.xml"
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_authentication.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\img_authentication.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_authentication.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\img_authentication.png"
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\menu\\navigation.xml"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_6.png.flat",
@@ -1200,16 +1200,16 @@
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_clear_selector.xml.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\btn_clear_selector.xml"
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancel_btn.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\cancel_btn.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_vert_black_24dp.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\ic_more_vert_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancel_btn.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\cancel_btn.png"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_clear_selector.xml.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\btn_clear_selector.xml"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
@@ -1248,12 +1248,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\eye_closed.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_noti_icon.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\noti_icon.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_effect.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\ripple_effect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_noti_icon.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\noti_icon.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_leave_approve.png.flat",
@@ -1264,12 +1264,12 @@
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_vert_black_24dp.png.flat",
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_attendance.png.flat",
@@ -1300,16 +1300,16 @@
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_farmer_id.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\farmer_id.png"
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_id.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\id.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_farmer_id.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\farmer_id.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1320,12 +1320,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xxhdpi\\project_nav.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_assignee_8.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\assignee_8.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_assignee_8.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\assignee_8.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_text1.png.flat",
@@ -1344,12 +1344,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\layout\\custompopup.xml"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_attach_icon.png.flat",
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\dialog_attach_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
@@ -1392,12 +1392,12 @@
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_gallery.png.flat",
@@ -1492,12 +1492,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_alt_right_l.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\btn_alt_right_l.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dashboard.png.flat",
@@ -1528,40 +1528,40 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-hdpi\\square.xml"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_overdue_assignment.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\overdue_assignment.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ce9de97a342dc009d21366ef8eddf7ad\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_notification_media_action.xml.flat",
-        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\layout-v11\\notification_media_action.xml"
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_overdue_assignment.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\overdue_assignment.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_task_type_red.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\task_type_red.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\layout-v11\\notification_media_action.xml"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_img_authentication.png.flat",
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xxhdpi\\img_authentication.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_transaction_complete_layout.xml.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\layout\\transaction_complete_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_footer.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\footer.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_transaction_complete_layout.xml.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\layout\\transaction_complete_layout.xml"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -1580,16 +1580,16 @@
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_noti_icon.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xxhdpi\\noti_icon.png"
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_task_id.png.flat",
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-hdpi\\task_id.png"
     },
     {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
-        "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_noti_icon.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xxhdpi\\noti_icon.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -1720,12 +1720,12 @@
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_project_nav.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\project_nav.png"
-    },
-    {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_employee_management.png.flat",
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\employee_management.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_project_nav.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\project_nav.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_nearby.png.flat",
@@ -1820,12 +1820,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\square.xml"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_send.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_send.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_send.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_send.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1956,12 +1956,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\ic_nearby.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorites.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\ic_favorites.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_udaan.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-xxhdpi\\logo_udaan.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorites.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-mdpi\\ic_favorites.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_comment_color.xml.flat",
@@ -1992,12 +1992,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-hdpi\\bell_icon.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_due_date.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\due_date.png"
-    },
-    {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_due_date.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\due_date.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_id.png.flat",
@@ -2292,12 +2292,12 @@
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\employee_management.png"
     },
     {
-        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_open.png.flat",
-        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\eye_open.png"
-    },
-    {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_open.png.flat",
+        "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\eye_open.png"
     },
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logosizenew.png.flat",
@@ -4118,6 +4118,10 @@
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_receipt_top.png.flat",
         "source": "E:\\office\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\bg_receipt_top.png"
+    },
+    {
+        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash1.png.flat",
+        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable\\splash1.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_overdue.png.flat",
@@ -7658,10 +7662,6 @@
     {
         "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_task.png.flat",
         "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-ldpi\\task.png"
-    },
-    {
-        "merged": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash1.png.flat",
-        "source": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\src\\main\\res\\drawable-hdpi\\splash1.png"
     },
     {
         "merged": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sign_out_option.png.flat",

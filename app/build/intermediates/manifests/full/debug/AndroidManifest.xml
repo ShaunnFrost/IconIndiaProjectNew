@@ -36,6 +36,7 @@
         android:label="Admin Task App"
         android:roundIcon="@drawable/logosizenew"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <service android:name="com.frantic.icon_india.project.Services.MyFirebaseInstanceIDService" >
             <intent-filter>
