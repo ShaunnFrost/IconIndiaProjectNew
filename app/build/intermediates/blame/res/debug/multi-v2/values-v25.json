@@ -1,26 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\values-v25\\values-v25.xml",
-                    "from": {
-                        "startLines": "2,3,4,6",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,126,209,308",
-                        "endLines": "2,3,5,7",
-                        "endColumns": "70,82,12,12",
-                        "endOffsets": "121,204,303,414"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\values-v25\\values-v25.xml",
+                    "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\974d5a09a8cf350298cb305efbb65f74\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

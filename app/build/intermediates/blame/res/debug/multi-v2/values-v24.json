@@ -1,25 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\office\\IconIndiaProjectNew\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Harry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a21cbfd48c4963ed20f274e70773db83\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,212,347,416,480,549",
-                        "endColumns": "156,134,68,63,68,69",
-                        "endOffsets": "207,342,411,475,544,614"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\Shaun_Frost\\Desktop\\iconIndia\\IconIndiaProjectNew\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\165838c06e3071dc4987941a66e57ed3\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\31c5838821ad93e4a573f92ab5030aff\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "619,685,746,812",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "680,741,807,874"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shaun_Frost\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\974d5a09a8cf350298cb305efbb65f74\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

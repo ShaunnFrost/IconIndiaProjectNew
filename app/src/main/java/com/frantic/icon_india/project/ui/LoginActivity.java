@@ -180,6 +180,7 @@ public class LoginActivity extends Activity {
                     finish();
                     startActivity(new Intent(LoginActivity.this, WelcomeActivity.class));
 
+
                     Log.w("Login Response", obj.toString());
                     //Toast.makeText(LoginActivity.this, obj.getString("response_string").toString(), Toast.LENGTH_LONG).show();
                 }*/

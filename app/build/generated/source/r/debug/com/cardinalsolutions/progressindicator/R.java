@@ -13,18 +13,18 @@ public final class R {
         public static final int circleProgressCompleteStartGradient = 0x7f060030;
         public static final int circleProgressIncompleteEndGradient = 0x7f060031;
         public static final int circleProgressIncompleteStartGradient = 0x7f060032;
-        public static final int coral_blue = 0x7f060037;
-        public static final int dark_blue = 0x7f060038;
-        public static final int light_gray = 0x7f06005a;
-        public static final int text_gray = 0x7f060096;
-        public static final int white = 0x7f060099;
+        public static final int coral_blue = 0x7f060042;
+        public static final int dark_blue = 0x7f060043;
+        public static final int light_gray = 0x7f060065;
+        public static final int text_gray = 0x7f0600a7;
+        public static final int white = 0x7f0600aa;
     }
     public static final class dimen {
         public static final int circleProgressRadius = 0x7f07005b;
         public static final int circleProgressThickness = 0x7f07005c;
-        public static final int curvedTextPadding = 0x7f07005d;
-        public static final int curvedTextRadius = 0x7f07005e;
-        public static final int curvedTextViewTextSize = 0x7f07005f;
+        public static final int curvedTextPadding = 0x7f070062;
+        public static final int curvedTextRadius = 0x7f070063;
+        public static final int curvedTextViewTextSize = 0x7f070064;
     }
     public static final class drawable {
         public static final int cardinal_bird = 0x7f080095;
@@ -36,12 +36,12 @@ public final class R {
     }
     public static final class string {
         public static final int app_name = 0x7f0f0020;
-        public static final int content_description = 0x7f0f002d;
-        public static final int curved_text_value = 0x7f0f002f;
-        public static final int home_screen_observations = 0x7f0f0038;
-        public static final int home_screen_observed_compliance = 0x7f0f0039;
-        public static final int percent_value = 0x7f0f0058;
-        public static final int total_observations = 0x7f0f0066;
+        public static final int content_description = 0x7f0f003e;
+        public static final int curved_text_value = 0x7f0f0040;
+        public static final int home_screen_observations = 0x7f0f0044;
+        public static final int home_screen_observed_compliance = 0x7f0f0045;
+        public static final int percent_value = 0x7f0f0064;
+        public static final int total_observations = 0x7f0f0074;
     }
     public static final class style {
         public static final int AppTheme = 0x7f100005;

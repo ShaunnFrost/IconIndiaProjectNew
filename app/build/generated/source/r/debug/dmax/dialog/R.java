@@ -14,23 +14,23 @@ public final class R {
         public static final int DialogTitleText = 0x7f040003;
     }
     public static final class color {
-        public static final int spots_dialog_color = 0x7f06008a;
+        public static final int spots_dialog_color = 0x7f06009b;
     }
     public static final class dimen {
-        public static final int progress_margin = 0x7f0701f6;
-        public static final int progress_width = 0x7f0701f7;
-        public static final int spot_size = 0x7f070340;
-        public static final int title_margin = 0x7f070343;
+        public static final int progress_margin = 0x7f070205;
+        public static final int progress_width = 0x7f070206;
+        public static final int spot_size = 0x7f07034f;
+        public static final int title_margin = 0x7f070352;
     }
     public static final class drawable {
-        public static final int spot = 0x7f08014a;
+        public static final int spot = 0x7f080165;
     }
     public static final class id {
-        public static final int progress = 0x7f0900c2;
-        public static final int title = 0x7f090111;
+        public static final int progress = 0x7f0900d6;
+        public static final int title = 0x7f090129;
     }
     public static final class layout {
-        public static final int dialog = 0x7f0b0032;
+        public static final int dialog = 0x7f0b0033;
     }
     public static final class style {
         public static final int SpotsDialogDefault = 0x7f1000d4;
